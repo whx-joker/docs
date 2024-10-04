@@ -27,10 +27,6 @@
   老版官网地址：[MSDN, 我告诉你 - 做一个安静的工具站 (itellyou.cn)](https://msdn.itellyou.cn/)
 
   新版官网地址：[NEXT, ITELLYOU](https://next.itellyou.cn/)
-  
-- **CSDN_Reader**
-
-  
 
 ####  社区（论坛）
 
