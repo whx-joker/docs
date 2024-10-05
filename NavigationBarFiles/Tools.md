@@ -1,6 +1,6 @@
 ####  在线工具
 
-- **思维导图mindmap**
+- **思维导图 mindmap**
 
   这是我利用别人在 **Github** 开源项目加上 **Github Pages** 搭建的一个在线思维导图工具，这个工具也支持 **Docker** 部署。长期使用的话也可以安装到电脑上使用
 
@@ -8,13 +8,13 @@
 
   我部署的在线地址：[思绪思维导图 (whx-joker.github.io)](https://whx-joker.github.io/mind-map/#/)
   
-- **我爱PDF**
+- **我爱 PDF**
 
   一个支持把PDF转换为各种格式的在线网站，还支持拆分、合并、压缩PDF等功能。
 
   官网地址为：[iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具](https://www.ilovepdf.com/zh-cn)
   
-- **Docker Hub代理地址**
+- **Docker Hub 代理地址**
 
   由于一些特殊的网络原因，Docker 官网的地址 [Docker Hub Container Image Library | App Containerization](https://hub.docker.com/)  有时候会出现访问缓慢甚至是访问不了的问题，我自己就使用别人写好的开源项目搭配 Cloudfare 构建了一个代理地址。
 
@@ -92,13 +92,97 @@
 
   可使用在线版本，也可下载桌面安装程序
   
-- **TemperMongkey脚本** 
+- **TemperMongkey 脚本** 
 
   - **CSDN_Reader**
 
     一款能优化 CSDN 阅读的脚本，支持去除广告，免登录复制等各种功能。
 
     官网地址：[CSDN_Reader - 阅读优化脚本 (leonx.cn)](https://doc.leonx.cn/)
+  
+- **AI 工具合集**
+
+  - **国内 AI（无需魔法）** 
+
+    **ChatGLM（智谱清言）** 
+
+    这是由 **北京智谱华章科技有限公司** 开发的一款大模型
+
+    官网地址：https://chatglm.cn/?lang=zh
+
+    **KiMi** 
+
+    这是由 **月之暗面** 开发的，目前可以免费 AI 生成 PPT，质量不是很高，勉强能用，想免费体验 AI 生成 PPT 的可以试试
+
+    官网地址：https://kimi.moonshot.cn/
+
+    **紫东太初** 
+
+    中国科学院自动化研究所和武汉人工智能研究院推出新一代多模态大模型，支持多轮问答、文本创作、图像生成、3D理解、信号分析等全面问答任务
+
+    官网地址：https://taichu-web.ia.ac.cn/
+
+    **文心一言** 
+
+    这是国内知名公司百度开发的
+
+    官网地址：https://yiyan.baidu.com/
+
+    **通义千问** 
+
+    这是阿里开发的
+
+    官网地址：https://tongyi.aliyun.com/
+
+    **豆包** 
+
+    这是由字节跳动所开发的，就是开发抖音那个公司
+
+    官网地址：https://www.doubao.com/chat/
+
+    **星火大模型** 
+
+    这是讯飞的
+
+    官网地址：https://xinghuo.xfyun.cn/
+
+  - **海外 AI （需要魔法）** 
+
+    **ChatGPT**
+
+    AI 对话的开山鼻祖，由 Open AI 公司开发
+
+    官网地址：https://chatgpt.com/
+
+    **POE** 
+
+    这是一个集成了众多大模型的平台，由 chatgpt，claude3等
+
+    官网地址：https://poe.com/
+
+    **postgres** 
+
+    这个是用来设计、优化和管理数据库的。
+
+    官网地址：https://postgres.new/
+
+    **coze** 
+
+    这是由国内字节跳动推出的海外版 AI
+
+    官网地址：https://www.coze.com/
+
+    **V0** 
+
+    由 Vercel 推出的一款前端组件代码生成的 AI
+
+    官网地址：https://v0.dev/chat
+
+    **Forefront**
+
+    这个跟 POE 一样，都是集成了很多大模型的平台
+
+    官网地址：https://forefront.ai/
 
 
 
@@ -128,7 +212,7 @@
 
   下载地址：[Geek Uninstaller - Download](https://geekuninstaller.com/download)
   
-- **HFS 2.4.0 RC7版本** 
+- **HFS 2.4.0 RC7 版本** 
 
   HFS（HTTP文件服务器）是一种文件共享软件，允许您通过HTTP发送和接收文件。你可以将这种分享限制在几个朋友之间，或者向全世界开放。
 
