@@ -101,8 +101,6 @@
     官网地址：[CSDN_Reader - 阅读优化脚本 (leonx.cn)](https://doc.leonx.cn/)
 ####  便携与可安装工具
 
-**注：以下软件既可以使用便携版也可下载安装包进行安装使用**
-
 - **localsend**
 
   **LocalSend** 是一款免费、开源、跨平台的局域网文件互传工具，无需互联网，无需外部服务器。即开即用，支持 Windows、macOS、Linux，以及 iOS、Android。
