@@ -99,6 +99,9 @@
     一款能优化 CSDN 阅读的脚本，支持去除广告，免登录复制等各种功能。
 
     官网地址：[CSDN_Reader - 阅读优化脚本 (leonx.cn)](https://doc.leonx.cn/)
+
+
+
 ####  便携与可安装工具
 
 **注：以下软件既可以使用便携版也可下载安装包进行安装使用**
@@ -168,6 +171,8 @@
   一个强大的文件搜索工具，帮助您快速定位计算机上的文件和文件夹。凭借其小的安装文件、干净而简单的用户界面、快速的文件索引和快速搜索能力，Everything使得找到您要寻找的内容变得轻松。
   
   官网地址：[Everything - voidtools](https://www.voidtools.com/zh-cn/support/everything/)
+
+
 
 ####   安装版工具
 
