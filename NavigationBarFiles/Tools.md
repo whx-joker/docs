@@ -380,7 +380,13 @@
 
   Clash for Windows 是一款基于 Clash 内核的 Windows 平台代理工具。Clash for Windows 支持多种代理协议，例如 HTTP(S)、Socks5、Shadowsocks、VMess 等。Clash for Windows 的优点包括易于使用、界面友好、功能强大、支持多种协议等。官方删库跑路了，下面的是别人整理的
 
-  下载地址：[TCOTC/Clash_backup: Backup of Clash for Windows and Chinese file. (github.com)](https://github.com/TCOTC/Clash_backup?tab=readme-ov-file)
+  下载地址：[Z-Siqi/Clash-for-Windows_Chinese: clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序 (github.com)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
+  
+  我保存的网盘地址（这里也有个安卓版本的）：
+  
+  主链接：https://www.123684.com/s/d5Ozjv-Gratd    提取码:j0Gk
+  
+  备用链接：https://www.123865.com/s/d5Ozjv-Gratd    提取码:j0Gk
   
 - **落雪音乐** 
 
