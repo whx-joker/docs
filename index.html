@@ -21,22 +21,19 @@
 			coverpage: '封面.md',
 			loadNavbar: '导航.md',
 			auto2top: true, //自动置顶
-			// 搜索框
-			search: {
-				paths: 'auto',
-				placeholder: '🔍 搜索',
-				noData: '😒 找不到结果',
-				maxAge: 86400000,
-				depth: 6,
-			},
 		};
 	</script>
 	<!-- Docsify v4 -->
 	<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 	<!-- 红心点击特效 -->
 	<script src="//cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/js/click_heart.js"></script>
-	<!-- 全局搜索 -->
-	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+	<!-- 聊天室 -->
+	<script>
+		((window.gitter = {}).chat = {}).options = {
+			room: '@whx-joker:gitter.im/xm-docsify'
+		};
+	</script>
+	<script src="sidecar.js"></script>
 </body>
 
 </html>
