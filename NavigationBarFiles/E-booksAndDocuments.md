@@ -8,4 +8,8 @@
 
 - **文档**
 
+  **Github + PicGo 搭建图床教程** 
+  
+  文档地址：https://xiumu8.lanzouw.com/ik3B32cl67kj
+  
   
