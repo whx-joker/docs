@@ -183,8 +183,8 @@
     这个跟 POE 一样，都是集成了很多大模型的平台
 
     官网地址：https://forefront.ai/
-
-
+    
+    
 
 ####  便携与可安装工具
 
@@ -393,6 +393,12 @@
   一款 **可以免费收听各大平台流行歌曲的综合音乐平台** 。 它基于 Electron + Vue 技术，由 GitHub 开发者 lyswhut 开发，支持 macOS、Windows、Linux 三大平台，界面简洁，功能丰富。需导入音源使用，导入音源教程参考 **软件使用指南** 的 **EP04-落雪音乐添加音源教程** 
 
   官方仓库地址：[lyswhut/lx-music-desktop: 一个基于 electron 的音乐软件 (github.com)](https://github.com/lyswhut/lx-music-desktop)
+  
+- **WPS 教育考试专用版**
+
+  这是 WPS 专门为教育考试定制的一个版本，去掉了一些多余的功能，个人用完全足够，不想用微软的 Office 可以试试
+
+  下载地址：https://ncre.neea.edu.cn/html1/report/1507/861-1.htm
 
 #### 插件
 
